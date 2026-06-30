@@ -1,0 +1,5 @@
+[
+  {"id":"c9366975-c7cf-4f00-b36b-ca70fea41f08","name":"Ethan Hunt","email":"ethan.hunt@academy.edu","rollNumber":"DS-2026-005","course":"Data Science","grade":"A","age":23},
+  {"id":"7f922e0f-664b-4c79-a1a5-e1f133003180","name":"Roshan","email":"roshan@gmail.com","rollNumber":"SG22CSE114","course":"Computer science","grade":"A","age":22},
+  {"id":"d7c5fc00-4614-468d-ae64-453d86450d62","name":"Affan Khan","email":"afffan36@gmail.com","rollNumber":"SG22MEC003","course":"Mechanical","grade":"A","age":22}
+]
